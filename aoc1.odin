@@ -1,4 +1,4 @@
-package aoc;
+package aoc
 
 import "core:strings"
 import "core:os"

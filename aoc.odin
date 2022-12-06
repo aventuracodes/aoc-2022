@@ -1,5 +1,5 @@
-package aoc;
+package aoc
 
 main :: proc() {
-    four()
+    five()
 }
